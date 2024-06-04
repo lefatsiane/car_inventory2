@@ -1,0 +1,14 @@
+html {
+  background-color: black;
+  color: grey;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+  justify-content: center;
+}
+
+.addCar{
+  margin-top: 5%;
+}
