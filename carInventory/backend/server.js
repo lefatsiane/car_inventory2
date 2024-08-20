@@ -11,8 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB connection
-const mongodb =
-  "mongodb+srv://lefataleni:seceret123@myfirstcluster.yv2btaq.mongodb.net/test";
+const mongodb =""; //insert your server here
 
 // Set the port for the server (use environment variable or default to 5000)
 const PORT = process.env.PORT || 5000;
